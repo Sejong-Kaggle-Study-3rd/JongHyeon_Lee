@@ -18,8 +18,8 @@
 | 4 | 로지스틱회귀분류 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/04_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EB%A5%98.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/04_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EB%A5%98.ipynb), [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/04_%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80%EB%B6%84%EB%A5%98_%EA%B7%9C%EC%A0%9C%20%EA%B0%95%EB%8F%84%20%EB%B9%84%EA%B5%90.ipynb) |
 | 5 | 판별분석 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/05_%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/05_%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.ipynb) |
 | 6 | 의사결정나무 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/06_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/06_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.ipynb) |
-| 7 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/07_SVM.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/07_SVM.ipynb) | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/08_%EA%B5%B0%EC%A7%91%ED%99%94.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/08_%EA%B5%B0%EC%A7%91%ED%99%94.ipynb) |
-| 8 | 군집화 | 기계학습 |
+| 7 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/07_SVM.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/07_SVM.ipynb) |
+| 8 | 군집화 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/08_%EA%B5%B0%EC%A7%91%ED%99%94.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/08_%EA%B5%B0%EC%A7%91%ED%99%94.ipynb) |
 | 9 | 차원축소 | 기계학습 |
 | 10 | 교차검증 | 기계학습 |
 | 11 | 선형회귀 | 인공지능 |
