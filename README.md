@@ -20,7 +20,7 @@
 | 6 | 의사결정나무 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/06_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/06_%EC%9D%98%EC%82%AC%EA%B2%B0%EC%A0%95%EB%82%98%EB%AC%B4.ipynb) |
 | 7 | SVM | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/07_SVM.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/07_SVM.ipynb) |
 | 8 | 군집화 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/08_%EA%B5%B0%EC%A7%91%ED%99%94.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/08_%EA%B5%B0%EC%A7%91%ED%99%94.ipynb) |
-| 9 | 차원축소 | 기계학습 |
+| 9 | 차원축소 | 기계학습 | [pdf](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Notes/09_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.pdf) | [lab](https://github.com/Sejong-Kaggle-Study-3rd/JongHyeon_Lee/blob/main/Labs/09_%EC%B0%A8%EC%9B%90%EC%B6%95%EC%86%8C.ipynb) |
 | 10 | 교차검증 | 기계학습 |
 | 11 | 선형회귀 | 인공지능 |
 | 12 | 선형분류 | 인공지능 |
