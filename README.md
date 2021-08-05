@@ -23,7 +23,7 @@
 | 13 | 뉴럴네트워크 & DNN |
 | 14 | CNN&모델 클래스화 |
 |  | 영상분류기&전이학습&사전학습된모델 |
-|  | RL: PG, DQN, double DQN, dueling DQN + tf_agents |
+| 15 | RL: PG, DQN, double DQN, dueling DQN + tf_agents |
 
 ## 인공지능 라이브러리
 - [Scikit-learn](https://scikit-learn.org/stable/modules/classes.html)
